@@ -1,0 +1,1 @@
+# 1.10CalculoDeIntegralesDefinidas01AbigailJimenez3202.m
